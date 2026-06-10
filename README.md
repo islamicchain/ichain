@@ -2,6 +2,8 @@
 
 Official repository of the IslamicChain™ Sovereign Blockchain.
 
+<img width="400" height="400" alt="Islamicchain Logo" src="https://github.com/user-attachments/assets/27d41fe8-51f3-4781-a1e2-866ffe45b7ab" />
+
 ---
 
 ## Overview
